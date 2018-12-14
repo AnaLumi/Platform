@@ -1,0 +1,1 @@
+blast02_01.png.png 6 14, blast02_02.png.png 70 13, blast02_03.png.png 7 44, blast02_04.png.png 71 43, blast02_05.png.png 11 75, blast02_06.png.png 79 75, blast02_07.png.png 23 107, blast02_08.png.png 92 107, blast02_09.png.png 33 137, blast02_10.png.png 103 139, blast02_11.png.png 44 172.
